@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "vite build --base=/goit-js-hw-09/",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
